@@ -45,7 +45,6 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [🎙️ AI Voice Assistant](https://github.com/MuraliDhar-731/AI-Voice-Assistant) | RAG-powered conversational AI agent for government services with multi-turn interactions | FastAPI · GPT-4o-mini · Twilio · FAISS · PostgreSQL · Docker |
 | [🧬 MedInSight-RAG](https://github.com/MuraliDhar-731/MindInSight-RAG) | Biomedical Q&A system with BioBERT embeddings — benchmarked BioGPT, Flan-T5, Phi-2 | BioBERT · FAISS · Cross-Encoder · FLAN-T5 · Gradio |
 | [🚗 Vehicle Detection](https://github.com/MuraliDhar-731/Vehicle-Detection-YOLOv3) | Real-time vehicle detection & classification pipeline for traffic monitoring | YOLOv3 · OpenCV · Python |
 | [📊 Uber Dashboard](https://github.com/MuraliDhar-731/Uber-Dashboard) | Interactive Power BI dashboard — trips, fares, demand heatmaps, driver analytics | Power BI · Python · SQL |
@@ -56,8 +55,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuraliDhar-731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliDhar-731&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuraliDhar-731&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliDhar-731&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuraliDhar-731&theme=tokyonight" alt="Profile Summary"/>
 </p>
 
 ---
