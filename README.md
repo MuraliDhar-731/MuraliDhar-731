@@ -46,7 +46,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [🎙️ AI Voice Assistant](https://github.com/MuraliDhar-731/AI-Voice-Assistant) | RAG-powered conversational AI agent for government services with multi-turn interactions | FastAPI · GPT-4o-mini · Twilio · FAISS · PostgreSQL · Docker |
-| [🧬 MedInSight-RAG](https://github.com/MuraliDhar-731/MedInSight-RAG) | Biomedical Q&A system with BioBERT embeddings — benchmarked BioGPT, Flan-T5, Phi-2 | BioBERT · FAISS · LangChain · Python |
+| [🧬 MedInSight-RAG](https://github.com/MuraliDhar-731/MindInSight-RAG) | Biomedical Q&A system with BioBERT embeddings — benchmarked BioGPT, Flan-T5, Phi-2 | BioBERT · FAISS · Cross-Encoder · FLAN-T5 · Gradio |
 | [🚗 Vehicle Detection](https://github.com/MuraliDhar-731/Vehicle-Detection-YOLOv3) | Real-time vehicle detection & classification pipeline for traffic monitoring | YOLOv3 · OpenCV · Python |
 | [📊 Uber Dashboard](https://github.com/MuraliDhar-731/Uber-Dashboard) | Interactive Power BI dashboard — trips, fares, demand heatmaps, driver analytics | Power BI · Python · SQL |
 | [🌐 Portfolio](https://muralidhar-731.github.io/Portfolio_Web/) | Immersive 3D scroll-driven portfolio website | HTML · CSS · Three.js |
@@ -56,13 +56,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuraliDhar-731&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliDhar-731&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuraliDhar-731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliDhar-731&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-I'm actively looking for **AI Engineer**, **Data Scientist**, and **ML Engineer** roles.  
+I'm actively looking for **AI Engineer**, **Data Scientist**, and **ML Engineer** roles.
 Feel free to reach out — [Muralidhar731k@gmail.com](mailto:Muralidhar731k@gmail.com)
