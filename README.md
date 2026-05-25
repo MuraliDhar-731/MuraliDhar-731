@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @MuraliDhar
-- 👀 I’m interested in exploring new places
-- 🌱 I’m currently learning Data Science as my Grad at University Of New Haven
-- 💞️ I’m looking to collaborate on any kind of medical projects 
-- 📫 How to reach me : mail me at muralidhar7301@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: you can call me MD
+## Hi, I'm Muralidhar Kolimali (MD) 👋
 
-<!---
-MuraliDhar-731/MuraliDhar-731 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI Engineer & Data Scientist based in Connecticut, USA.  
+M.S. Data Science — University of New Haven (May 2026) · GPA 3.5
+
+### 🔧 What I build
+- **RAG Systems** — end-to-end retrieval-augmented generation pipelines
+- **Conversational AI** — multi-turn voice assistants with FastAPI + OpenAI
+- **Computer Vision** — real-time object detection with YOLOv3
+- **Data Pipelines** — ETL, Power BI dashboards, PostgreSQL
+
+### 🛠 Tech Stack
+`Python` `SQL` `FastAPI` `PostgreSQL` `Docker` `FAISS` `OpenAI` `LangChain` `Power BI` `scikit-learn`
+
+### 📌 Featured Projects
+| Project | Description | Stack |
+|---|---|---|
+| [AI Voice Assistant](https://github.com/MuraliDhar-731) | RAG-powered government services voice agent | FastAPI, GPT-4o-mini, Twilio, FAISS, Docker |
+| [MedInSight-RAG](https://github.com/MuraliDhar-731) | Biomedical QA system with multi-LLM evaluation | BioBERT, FAISS, BioGPT, Flan-T5 |
+| [Portfolio](https://muralidhar-731.github.io/Portfolio_Web/) | Interactive 3D portfolio website | HTML, CSS, Three.js |
+
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muralidharkolimali/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://muralidhar-731.github.io/Portfolio_Web/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Muralidhar731k@gmail.com)
